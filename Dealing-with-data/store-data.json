@@ -1,44 +1,8 @@
-{
-  "products": [
-    {
-      "id": 1,
-      "name": "Wireless Mouse",
-      "category": "Electronics",
-      "price": 799,
-      "stock": 25,
-      "rating": 4.3
-    },
-    {
-      "id": 2,
-      "name": "Mechanical Keyboard",
-      "category": "Electronics",
-      "price": 2499,
-      "stock": 12,
-      "rating": 4.6
-    },
-    {
-      "id": 3,
-      "name": "Laptop Stand",
-      "category": "Accessories",
-      "price": 1299,
-      "stock": 18,
-      "rating": 4.5
-    },
-    {
-      "id": 4,
-      "name": "Backpack",
-      "category": "Fashion",
-      "price": 1599,
-      "stock": 20,
-      "rating": 4.4
-    },
-    {
-      "id": 5,
-      "name": "Bluetooth Speaker",
-      "category": "Electronics",
-      "price": 1899,
-      "stock": 15,
-      "rating": 4.5
-    }
-  ]
-}
+[
+  {"name": "Alice", "rating": "5 ", "feedback": "Great product!!", "age": "25"},
+  {"name": "Bob", "rating": "four", "feedback": "ok but late Delivery", "age": "30"},
+  {"name": " Charlie", "rating": "two", "feedback": "BAD EXPERIENCE "},
+  {"name": "Diana", "feedback": "Loved it!", "rating": "5", "age": "28"},
+  {"name": "Eve", "rating": "3.5", "feedback": "Average - could be better", "age": "20"},
+  {"name": "Alice", "rating": "5", "feedback": "Great product again!", "age": "25"}
+]
