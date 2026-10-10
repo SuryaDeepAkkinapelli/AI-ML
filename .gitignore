@@ -9,3 +9,6 @@
 /pyproject.toml
 /sample.txt
 /uv.lock
+/Libraries/.ipynb_checkpoints
+/Libraries/.virtual_documents
+/Libraries/anaconda_projects
